@@ -1,4 +1,4 @@
-# Awesome mybinder examples for material science
+# Example workflows for material science
 
 A gallery of different integrations and tools that come with [pyiron](https://pyiron.org), and integrated development environment (IDE) for computational materials science.
 Feel free to browse the categories below:
