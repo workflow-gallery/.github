@@ -1,7 +1,9 @@
 # Example workflows for material science
 
 A gallery of different integrations and tools that come with [pyiron](https://pyiron.org), and integrated development environment (IDE) for computational materials science.
-Feel free to browse the categories below:
+Feel free to browse the categories below or explore the different categories:
+
+[<sup> #atomistics </sup>](tags/atomistics.md)   [<sup> #molecular_dynamics </sup>](tags/molecular_dynamics.md)   [<sup> #thermodynamics </sup>](tags/thermodynamics.md) 
 
 | Name | Description | Repository | Documentation | MyBinder | Mybinder Repository | Tags |
 |------| :---------: | :--------: | :-----------: | :------: | :-----------------: | :--: |
